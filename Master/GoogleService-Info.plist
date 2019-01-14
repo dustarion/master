@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>1086655103908-rpotehnn66vkn454hfnq90cu3oo2fj3m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1086655103908-rpotehnn66vkn454hfnq90cu3oo2fj3m</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAsdNH-WXdm0MS63JOpNokA1Xqz-VLf4Ow</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1086655103908</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Dalton-Prescott.Master</string>
+	<key>PROJECT_ID</key>
+	<string>master-eb220</string>
+	<key>STORAGE_BUCKET</key>
+	<string>master-eb220.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1086655103908:ios:bb37dc3fb66b25c9</string>
+	<key>DATABASE_URL</key>
+	<string>https://master-eb220.firebaseio.com</string>
+</dict>
+</plist>
